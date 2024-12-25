@@ -27,5 +27,5 @@ Contributions are welcome! Feel free to open an issue or submit a pull request t
 
 ---
 
-Let’s build a data-driven future together!
+__Let’s build a data-driven future together!__
 
