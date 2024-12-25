@@ -1,4 +1,4 @@
-# Arewa Data Science  Academy
+# Arewa Data Science Fellowshhip Academy
 ## Overview
 The Arewa Data Science Academy python programming fellowship is a transformative program designed to equip participants with in-demand python skills and foster a collaborative learning environment. This repository will serve as a resource hub for all related materials, projects, and documentation.
 ## Goals
@@ -24,3 +24,8 @@ The Arewa Data Science Academy python programming fellowship is a transformative
 
 ## Contributions
 Contributions are welcome! Feel free to open an issue or submit a pull request to enhance this repository.
+
+---
+
+Let’s build a data-driven future together!
+
