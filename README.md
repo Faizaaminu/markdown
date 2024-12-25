@@ -14,7 +14,7 @@ The Arewa Data Science Academy python programming fellowship is a transformative
 - ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/arewa-datascience-fellowship.git
+   git clone https://github.com/Faizaaminu/arewa-datascience-fellowship.git
    ```
 2. Navigate to the project directory:
    ```bash
